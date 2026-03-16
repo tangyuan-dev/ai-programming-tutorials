@@ -5,7 +5,7 @@ Real-world Cases + Best Practices | Updated Weekly
 [![Star](https://img.shields.io/github/stars/tangyuan-dev/ai-programming-tutorials?style=social)](https://github.com/tangyuan-dev/ai-programming-tutorials/stargazers)
 [![License](https://img.shields.io/github/license/tangyuan-dev/ai-programming-tutorials)](LICENSE)
 
-> AI programming tutorials for developers in the AI era
+> In the AI Agent Era, Everyone Can Become an AI Engineer
 
 ## 📚 Tutorial List
 

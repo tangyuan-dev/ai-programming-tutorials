@@ -7,7 +7,7 @@
 [![Star](https://img.shields.io/github/stars/tangyuan-dev/ai-programming-tutorials?style=social)](https://github.com/tangyuan-dev/ai-programming-tutorials/stargazers)
 [![License](https://img.shields.io/github/license/tangyuan-dev/ai-programming-tutorials)](LICENSE)
 
-> AI 时代，每个开发者都值得拥有的编程教程
+> AI Agent 时代，让每个人都能成为 AI 工程师
 
 ## 📚 教程列表
 
