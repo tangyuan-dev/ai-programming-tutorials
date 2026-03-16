@@ -1,5 +1,7 @@
 # 🤖 AI 编程实战教程
 
+[English](./README-en.md) | 中文
+
 精选案例 + 最佳实践 | 每周更新
 
 [![Star](https://img.shields.io/github/stars/tangyuan-dev/ai-programming-tutorials?style=social)](https://github.com/tangyuan-dev/ai-programming-tutorials/stargazers)
