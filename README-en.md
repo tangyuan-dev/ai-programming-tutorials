@@ -5,7 +5,7 @@ Real-world Cases + Best Practices | Updated Weekly
 [![Star](https://img.shields.io/github/stars/tangyuan-dev/ai-programming-tutorials?style=social)](https://github.com/tangyuan-dev/ai-programming-tutorials/stargazers)
 [![License](https://img.shields.io/github/license/tangyuan-dev/ai-programming-tutorials)](LICENSE)
 
-> In the AI Agent Era, Everyone Can Have an AI Coworker and Friend
+> The Operating System for the AI Agent Era, Co-create the Future with AI
 
 ## 📚 Tutorial List
 
